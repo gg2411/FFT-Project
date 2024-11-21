@@ -1,0 +1,19 @@
+{
+    "name": "fft-visualizer",
+    "version": "1.0.0",
+    "description": "Frontend application for voice reconstruction project",
+    "private": true,
+    "dependencies": {
+      "axios": "^0.21.1",
+      "react": "^17.0.2",
+      "react-chartjs-2": "^3.0.3",
+      "react-dom": "^17.0.2",
+      "chart.js": "^3.5.1",
+      "react-scripts": "4.0.3"
+    },
+    "scripts": {
+      "start": "PORT=3000 react-scripts start",
+      "build": "react-scripts build"
+    }
+  }
+  

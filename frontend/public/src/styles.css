@@ -1,0 +1,29 @@
+/* styles.css */
+/**
+ * Stylesheet for the Audio FFT Analyzer application
+ */
+ body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    margin-top: 40px;
+  }
+  
+  .chart-container {
+    width: 80%;
+    margin: auto;
+  }
+  
